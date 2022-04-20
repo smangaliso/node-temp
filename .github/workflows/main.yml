@@ -15,8 +15,8 @@ jobs:
       - name: Install 🔧
         run: npm install
 
-      - name: Lint 🧐
-        run: npm run lint
+      - name: Serve 🧐
+        run: npm run serve
 
       - name: Build 🏗️
         run: npm run build
